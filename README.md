@@ -1,6 +1,7 @@
-Всем привет, меня зовут Павел "Am0k" Колесов.
-# Мои увлечения:
-- микроэлектроника, схемотехника, включая создание встроенных систем на основе AVR, ARM и ESP микроконтроллеров (проект, прошивка, воплощение в железе);
-- создание CNC машин (для фрезеровки, 3D печати);
-- создание автоматизированных систем управления (термоконтроллеры, реле времени, регуляторы влажности и освещения);
-- собственно 3D печать.
+
+Hello everyone, my name is Pavel "Am0k" Kolesov.
+## My hobbies:
+- microelectronics, circuit engineering, including the creation of embedded systems based on AVR, ARM and ESP microcontrollers (project, firmware, implementation in hardware);
+- creation of CNC machines (for milling, 3D printing);
+- creation of automated control systems (thermal controllers, time relays, humidity and lighting regulators);
+- actual 3D printing.
