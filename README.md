@@ -18,7 +18,7 @@ Hello everyone, my name is Pavel "Am0k" Kolesov.
 - creation of automated control systems (thermal controllers, time relays, humidity and lighting regulators);
 
 <p align="center">
-  <img src="1674663663651.jpg" height="300"/>
+  <img src="1724000179732.jpg" height="300"/>
 </p>
 
 - actual 3D printing.
